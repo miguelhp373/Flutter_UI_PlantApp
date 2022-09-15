@@ -1,0 +1,2 @@
+# Flutter_UI_PlantApp
+ @abuanwar072 - Nice Plant App Ui using flutter, the home page you get search box than a horizontal list of recomended plants. At the bottom featured plans list. On the details page, a big image with its 4 icons on the right side also adds to the cart button. Learn how to navigate on different pages, decorate and TextField, create your own product card from scatch and make it a reusable widget, horizontal and vertical scrolling, and more.
